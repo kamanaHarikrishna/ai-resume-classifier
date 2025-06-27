@@ -32,3 +32,18 @@ This project is an **AI-powered Resume Category Classifier** built using **Natur
    ```bash
    git clone https://github.com/kamanaHarikrishna/ai-resume-classifier.git
    cd ai-resume-classifier
+
+ai-resume-classifier/
+│
+├── app.py                     # Streamlit frontend
+├── resume_classifier.pkl      # Trained ML model
+├── TfidfVectorizer.pkl        # Vectorizer used in model
+├── requirements.txt           # Dependencies
+├── background.png             # Background image for UI
+├── .gitignore
+└── README.md                  # Project documentation
+
+
+🧑‍💻 Author
+Hari Krishna 
+
