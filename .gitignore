@@ -1,0 +1,20 @@
+# Ignore system files
+*.lnk
+*.dat
+*.ini
+*.log
+.DS_Store
+Thumbs.db
+
+# Ignore Python environment and cache
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore any folders outside this directory
+../../
